@@ -1,2 +1,3 @@
 # DemoRepo
-This is a demo repository
+This is a Demo Repository.
+Author - Meghavi Bansod
